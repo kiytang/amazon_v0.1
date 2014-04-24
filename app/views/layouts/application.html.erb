@@ -10,6 +10,8 @@
 	<div id="banner">
 		<%= image_tag("logo.png") %>
 		<%= @page_title || "Amazon Bookshelf" %>
+		<%= pluralize session[:counter], 'times' %>
+		
 	</div>
 
 	<div id="columns">
