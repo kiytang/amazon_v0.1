@@ -1,7 +1,7 @@
 # Amazon v0.1
 
 ###Task:
-To create a web application using the Ruby-on-Rails framework, which replicates a typical ecommerce website inclsuive of payment processing via stripe.
+To create a web application using the Ruby-on-Rails framework, which replicates a typical ecommerce website inclusive of payment processing via stripe.
 
 ##Objectives:
 - Users can browse products, add products to a shopping cart and checkout.
