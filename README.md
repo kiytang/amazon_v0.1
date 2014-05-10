@@ -12,4 +12,4 @@ To create a web application using the Ruby-on-Rails framework, which replicates 
 
 
 ##Status Update:
-Currently beginning Chapter 10 (27/04/2014)
+Currently beginning Chapter 10 (27/04/2014) completed
